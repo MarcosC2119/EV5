@@ -205,7 +205,7 @@ MetriKivy/
 │   └── logs_example.png
 │
 ├── documentacion/              # Documentación del proyecto
-│   └── MetriKivy_Documentacion.pdf
+│   └── EV5.docx.pdf
 │
 └── kivy_wsl_env/              # Entorno virtual (si se usa WSL)
     └── ...
@@ -288,7 +288,7 @@ El proyecto incluye un archivo PDF con documentación completa que contiene:
 - **Diagramas y esquemas**: Visualizaciones de la arquitectura y flujo de datos
 - **Análisis de métricas**: Explicación detallada de las métricas implementadas
 
-📄 **Descargar PDF**: [MetriKivy_Documentacion.pdf](https://github.com/punshaa/MetriKivy-Evaluacion/raw/main/documentacion/MetriKivy_Documentacion.pdf)
+📄 **Descargar PDF**: [MetriKivy_Documentacion.pdf](https://github.com/MarcosC2119/EV5/raw/main/documentacion/EV5.docx.pdf)
 
 > **Nota**: Si el PDF no se muestra correctamente en GitHub, puedes descargarlo usando el enlace de arriba.
 
@@ -325,8 +325,8 @@ Las contribuciones son bienvenidas. Para contribuir al proyecto:
 ### Documentación del Proyecto
 
 - **PDF Explicativo**: Ver el archivo PDF incluido en el repositorio para documentación detallada del proyecto, arquitectura, diseño y especificaciones técnicas.
-  - **Descargar PDF**: [MetriKivy_Documentacion.pdf](https://github.com/punshaa/MetriKivy-Evaluacion/raw/main/documentacion/MetriKivy_Documentacion.pdf)
-  - **Ubicación en repositorio**: `documentacion/MetriKivy_Documentacion.pdf`
+  - **Descargar PDF**: [MetriKivy_Documentacion.pdf](https://github.com/MarcosC2119/EV5/raw/main/documentacion/EV5.docx.pdf)
+  - **Ubicación en repositorio**: `documentacion/EV5.docx.pdf`
   - **Contenido**: Explicación completa del proyecto, requisitos, diseño de la aplicación y guía de uso
 
 ### Documentación Técnica
@@ -343,7 +343,7 @@ Las contribuciones son bienvenidas. Para contribuir al proyecto:
 
 ### Repositorio
 
-- **Repositorio**: https://github.com/punshaa/MetriKivy-Evaluacion.git 
+- **Repositorio**: https://github.com/MarcosC2119/EV5.git 
 
 ## 📝 Licencia
 
