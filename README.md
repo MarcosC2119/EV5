@@ -9,44 +9,6 @@ Aplicación móvil desarrollada con Kivy para el registro y análisis de métric
 - [Métricas Implementadas](#-métricas-implementadas)
 - [Instalación](#-instalación)
 - [Dependencias](#-dependencias)
-- [Ejecución](#-ejecución)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Capturas de Pantalla](#-capturas-de-pantalla)
-- [Archivos Generados](#-archivos-generados)
-- [Contribuciones](#-contribuciones)
-- [Enlaces](#-enlaces)
-- [Licencia](#-licencia)
-- [Historial de Commits](#-historial-de-commits)
-
-## 📱 Descripción
-
-MetriKivy es una aplicación multiplataforma desarrollada con el framework Kivy de Python que permite registrar y analizar métricas de uso de la aplicación. La aplicación está diseñada para funcionar tanto en dispositivos Android como en sistemas de escritorio (Windows, Linux, macOS).
-
-### Funcionalidades Principales
-
-- **Registro de Eventos**: Cuenta y registra cada interacción del usuario (clics en botones)
-- **Tiempo de Sesión**: Mide y muestra en tiempo real la duración de cada sesión de uso
-- **Sistema de Logging**: Genera archivos de log detallados con todas las métricas registradas
-- **Interfaz Intuitiva**: UI simple y clara que muestra las métricas en tiempo real
-- **Multiplataforma**: Compatible con Android y sistemas de escritorio
-
-## ✨ Características
-
-- ✅ Registro automático de eventos de usuario
-- ✅ Contador de clics en tiempo real
-- ✅ Timer de sesión actualizado cada segundo
-- ✅ Sistema de logging persistente
-- ✅ Compatibilidad multiplataforma (Android/Desktop)
-- ✅ Almacenamiento automático de logs según la plataforma
-
-## 📊 Métricas Implementadas
-
-MetriKivy implementa las siguientes métricas:
-
-### 1. **Registro de Eventos (Clics)**
-- **Descripción**: Registra cada vez que el usuario presiona el botón de acción
-- **Implementación**: Se incrementa un contador y se registra en el log con el total acumulado
-- **Formato del Log**: `EVENTO: Botón presionado. Total clics: {número}`
 
 ### 2. **Tiempo de Sesión**
 - **Descripción**: Mide la duración total de cada sesión de uso de la aplicación
@@ -288,7 +250,7 @@ El proyecto incluye un archivo PDF con documentación completa que contiene:
 - **Diagramas y esquemas**: Visualizaciones de la arquitectura y flujo de datos
 - **Análisis de métricas**: Explicación detallada de las métricas implementadas
 
-📄 **Descargar PDF**: [MetriKivy_Documentacion.pdf](https://github.com/MarcosC2119/EV5/raw/main/documentacion/EV5.docx.pdf)
+📄 **Descargar PDF**: [EV5.docx.pdf](https://github.com/MarcosC2119/EV5/raw/main/documentacion/EV5.docx.pdf)
 
 > **Nota**: Si el PDF no se muestra correctamente en GitHub, puedes descargarlo usando el enlace de arriba.
 
@@ -325,7 +287,7 @@ Las contribuciones son bienvenidas. Para contribuir al proyecto:
 ### Documentación del Proyecto
 
 - **PDF Explicativo**: Ver el archivo PDF incluido en el repositorio para documentación detallada del proyecto, arquitectura, diseño y especificaciones técnicas.
-  - **Descargar PDF**: [MetriKivy_Documentacion.pdf](https://github.com/MarcosC2119/EV5/raw/main/documentacion/EV5.docx.pdf)
+  - **Descargar PDF**: [EV5.docx.pdf](https://github.com/MarcosC2119/EV5/raw/main/documentacion/EV5.docx.pdf)
   - **Ubicación en repositorio**: `documentacion/EV5.docx.pdf`
   - **Contenido**: Explicación completa del proyecto, requisitos, diseño de la aplicación y guía de uso
 
@@ -345,57 +307,8 @@ Las contribuciones son bienvenidas. Para contribuir al proyecto:
 
 - **Repositorio**: https://github.com/MarcosC2119/EV5.git 
 
-## 📝 Licencia
 
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
-```
-MIT License
-
-Copyright (c) 2025 Camila Yarella Aceitón
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-## 📜 Historial de Commits
-
-### Commit Principal
-
-```
-26d5ee4 - Camila Yarella Aceitón, 24 hours ago : Entrega Final: APK y Codigo
-```
-
-Este commit incluye:
-- ✅ Código fuente completo de la aplicación
-- ✅ Archivo de configuración Buildozer
-- ✅ APK compilado para Android
-- ✅ Sistema de logging implementado
-- ✅ Métricas de usuario funcionales
-
-### Detalles del Proyecto
-
-- **Autor**: Camila Yarella Aceitón
-- **Versión**: 0.1
-- **Última actualización**: Noviembre 2025
-- **Estado**: Funcional - Listo para uso
-
----
 
 ## 📧 Contacto
 
